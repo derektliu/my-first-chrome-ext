@@ -9,7 +9,7 @@
     {
       "css": ["styles.css"],
       "js": ["content.js"],
-      "matches": ["https://blog.lateral.io/*"]
+      "matches": ["https://basketball.fantasysports.yahoo.com/nba/*"]
     }
   ]
 }
