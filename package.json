@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/derektliu/my-first-chrome-ext/issues"
   },
-  "homepage": "https://github.com/derektliu/my-first-chrome-ext#readme"
+  "homepage": "https://github.com/derektliu/my-first-chrome-ext#readme",
+  "dependencies": {
+    "prettier": "^2.8.1"
+  }
 }
